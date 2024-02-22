@@ -160,21 +160,21 @@ const App = () => {
           </div>
         
         </section>
-        <section className="min-h-screen bg-green-500 flex">
+        <section className="min-h-screen bg-gradient-to-b from-blue-500 to-amber-400 flex">
           <div className="container mx-auto w-10/12 flex flex-col justify-center items-center relative" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-            <h2 className="text-4xl font-semibold text-center mt-3">Lorem ipsum dolor sit amet.</h2>
+            <h2 className="text-4xl font-semibold text-center mt-3">kamu adalah wanita yang sangat lucu, kamu cantik, baik kadang ngeselin, bisa cuek, bisa juga pengertian dan moodnya mudah berubah, tapi ranpa kamu ketahui, kamu sangat spesial di mataku. I love you so much😚🤗 </h2>
             <a href="#last-section" className='animate-bounce text-4xl mt-10'><FaArrowDown /></a>
           </div>
         </section>
 
-        <section className="min-h-screen bg-yellow-500 flex" id='last-section'>
+        <section className="min-h-screen bg-gradient-to-b from-amber-400 to-lime-500 flex" id='last-section'>
           <div className="container mx-auto flex flex-col justify-center items-center relative" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-            <h2 className="text-3xl font-semibold text-center">Lorem ipsum dolor sit amet.</h2>
+            <h2 className="text-3xl font-semibold text-center">Happy Birthday sayangku, i wish, apapun doa dan keinginan kamu bisa kampu dapetin, jangan lupa nikmatin prosesnya ya. Tetep semangat karena inget banyak yang dukung kamu, termasuk aku juga. Jangan takut untuk gagal ya sayang, I'll be there for u. I love you sayang😚 </h2>
             <a href="#first-section" className='animate-bounce text-4xl absolute bottom-5 right-5' title="Kembali ke Atas"><FaArrowUp /></a>
           </div>
         </section>
 
-        <footer className='bg-green-500'>
+        <footer className='bg-lime-500'>
           <h2 className='text-center font-medium text-lg py-3'>Made with ❤️ by Rakan. Copyright &copy; 2024.</h2>
         </footer>
       </div>

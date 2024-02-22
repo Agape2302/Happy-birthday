@@ -112,7 +112,7 @@ const App = () => {
           <div className="container mx-auto flex flex-col w-10/12">
             <div className="grid gap-10 grid-cols-2 my-2">
               <video className="w-full border-8 border-white aspect-video bg-gradient-to-r from-cyan-500 to-blue-500" controls >
-                <source src="/images/yeay.mp4" type="video/mp4" />
+                <source src="/images/buba.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <div className="flex flex-col justify-center items-center">

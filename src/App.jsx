@@ -38,10 +38,10 @@ const App = () => {
                   <p className="text-sm font-normal py-2.5 text-gray-900">i wanna talk about something</p>
                   <BiCheckDouble className="ms-auto text-2xl font-normal text-sky-500" />
               </div>
-              <img src="/images/avatar-2.png" alt="" className='w-10 h-10 rounded-full'/>
+              <img src="/images/avatar-2.jpg" alt="" className='w-10 h-10 rounded-full'/>
             </div>
             <div className="flex items-start gap-2.5 mt-5" data-aos="fade-right">
-              <img src="/images/avatar-1.png" alt="" className='w-10 h-10 rounded-full'/>
+              <img src="/images/avatar-1.JPG" alt="" className='w-10 h-10 rounded-full'/>
               <div className="flex flex-col w-full max-w-[420px] leading-1.5 p-4 border-gray-200 bg-gray-100 rounded-e-xl rounded-es-xl">
                   <div className="flex justify-start items-center space-x-2">
                     <span className="text-sm font-semibold text-gray-900">Lovebug </span>
@@ -58,7 +58,7 @@ const App = () => {
                   <p className="text-sm font-normal py-2.5 text-gray-900">im not a perfect bf, thank you</p>
                   <BiCheckDouble className="ms-auto text-2xl font-normal text-sky-500" />
               </div>
-              <img src="/images/avatar-2.png" alt="" className='w-10 h-10 rounded-full'/>
+              <img src="/images/avatar-2.jpg" alt="" className='w-10 h-10 rounded-full'/>
             </div>
             <div className="flex justify-end items-start gap-2.5 mt-5" data-aos="fade-left">
               <div className="flex flex-col w-full max-w-[420px] leading-1.5 p-4 border-gray-200 bg-gray-100 rounded-s-xl rounded-br-xl">
@@ -68,7 +68,7 @@ const App = () => {
                   <p className="text-sm font-normal py-2.5 text-gray-900">i just want to thank you, because of something difficult or not you continue to understand me, every day i make a mistake ypu forgive me, you understand me in every situation. thank tou, i love you so much</p>
                   <BiCheckDouble className="ms-auto text-2xl font-normal text-sky-500" />
               </div>
-              <img src="/images/avatar-2.png" alt="" className='w-10 h-10 rounded-full'/>
+              <img src="/images/avatar-2.jpg" alt="" className='w-10 h-10 rounded-full'/>
             </div>
           </div>
         </section>
